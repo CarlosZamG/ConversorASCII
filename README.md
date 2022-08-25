@@ -13,7 +13,7 @@ El repositorio contiene un programa en Python que convierte cadenas de carateres
 
 3. Suba el archivo [`ascii.py`](./fuentes/ascii.py) a su proyecto en Overleaf.
 
-4. Use la siguiente línea en su archivo fuente de $\LaTeX$ :
+4. Use la siguiente línea en su archivo fuente de $\LaTeX$.
 
     `\input{|python ascii.py Ejemplo Cadena}`
 
